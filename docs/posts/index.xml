@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 关注青少年心理健康</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on 关注青少年心理健康</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关注青少年心理健康 共同创造美好生活</title>
+      <link>https://example.org/posts/3/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/3/</guid>
+      <description>国家教委新领布的德育大纲第一句话明确提出：“德育即政治、思想、道德、与心理健康教育。”明确地把心理健康教育作为德育的一个重要组成部分。</description>
+    </item>
+    <item>
+      <title>青少年心理健康：成长中的心灵之旅</title>
+      <link>https://example.org/posts/1/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/1/</guid>
+      <description>心理健康基础知识包括心理健康的定义、重要性、影响因素等。 青少年时期是人生中的关键时期，这个阶段不仅仅涉及到身体发育，还涉及到心理发展。</description>
+    </item>
+    <item>
+      <title>青少年心理健康的十大标准，你知道多少？</title>
+      <link>https://example.org/posts/2/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/2/</guid>
+      <description>世界卫生组织提出健康不仅是没有疾病和痛苦，而是一个人在身体、心理和社会适应能力各方面都处于良好状态。 心理健康的人能够善待自己、善待他人</description>
+    </item>
+  </channel>
+</rss>

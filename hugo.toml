@@ -1,0 +1,15 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '关注青少年心理健康'
+publishDir = "docs"
+theme = "ananke"
+hasCJKLanguage = true
+summaryLength = 67
+canonifyurls = true
+
+[markup]
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
