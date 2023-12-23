@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://yyqx11-08.github.io/newsite/'
 languageCode = 'en-us'
 title = '关注青少年心理健康'
 publishDir = "docs"
